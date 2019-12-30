@@ -1,0 +1,10 @@
+C:\Users\Pearly\source\repos\MenuOfChampions\MenuOfChampions\bin\Debug\netcoreapp3.1\MenuOfChampions.exe
+C:\Users\Pearly\source\repos\MenuOfChampions\MenuOfChampions\bin\Debug\netcoreapp3.1\MenuOfChampions.deps.json
+C:\Users\Pearly\source\repos\MenuOfChampions\MenuOfChampions\bin\Debug\netcoreapp3.1\MenuOfChampions.runtimeconfig.json
+C:\Users\Pearly\source\repos\MenuOfChampions\MenuOfChampions\bin\Debug\netcoreapp3.1\MenuOfChampions.runtimeconfig.dev.json
+C:\Users\Pearly\source\repos\MenuOfChampions\MenuOfChampions\bin\Debug\netcoreapp3.1\MenuOfChampions.dll
+C:\Users\Pearly\source\repos\MenuOfChampions\MenuOfChampions\bin\Debug\netcoreapp3.1\MenuOfChampions.pdb
+C:\Users\Pearly\source\repos\MenuOfChampions\MenuOfChampions\obj\Debug\netcoreapp3.1\MenuOfChampions.AssemblyInfoInputs.cache
+C:\Users\Pearly\source\repos\MenuOfChampions\MenuOfChampions\obj\Debug\netcoreapp3.1\MenuOfChampions.AssemblyInfo.cs
+C:\Users\Pearly\source\repos\MenuOfChampions\MenuOfChampions\obj\Debug\netcoreapp3.1\MenuOfChampions.dll
+C:\Users\Pearly\source\repos\MenuOfChampions\MenuOfChampions\obj\Debug\netcoreapp3.1\MenuOfChampions.pdb

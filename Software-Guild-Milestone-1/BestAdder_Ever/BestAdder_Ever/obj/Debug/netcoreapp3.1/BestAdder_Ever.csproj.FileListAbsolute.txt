@@ -1,0 +1,10 @@
+C:\Users\Pearly\source\repos\BestAdder_Ever\BestAdder_Ever\bin\Debug\netcoreapp3.1\BestAdder_Ever.exe
+C:\Users\Pearly\source\repos\BestAdder_Ever\BestAdder_Ever\bin\Debug\netcoreapp3.1\BestAdder_Ever.deps.json
+C:\Users\Pearly\source\repos\BestAdder_Ever\BestAdder_Ever\bin\Debug\netcoreapp3.1\BestAdder_Ever.runtimeconfig.json
+C:\Users\Pearly\source\repos\BestAdder_Ever\BestAdder_Ever\bin\Debug\netcoreapp3.1\BestAdder_Ever.runtimeconfig.dev.json
+C:\Users\Pearly\source\repos\BestAdder_Ever\BestAdder_Ever\bin\Debug\netcoreapp3.1\BestAdder_Ever.dll
+C:\Users\Pearly\source\repos\BestAdder_Ever\BestAdder_Ever\bin\Debug\netcoreapp3.1\BestAdder_Ever.pdb
+C:\Users\Pearly\source\repos\BestAdder_Ever\BestAdder_Ever\obj\Debug\netcoreapp3.1\BestAdder_Ever.AssemblyInfoInputs.cache
+C:\Users\Pearly\source\repos\BestAdder_Ever\BestAdder_Ever\obj\Debug\netcoreapp3.1\BestAdder_Ever.AssemblyInfo.cs
+C:\Users\Pearly\source\repos\BestAdder_Ever\BestAdder_Ever\obj\Debug\netcoreapp3.1\BestAdder_Ever.dll
+C:\Users\Pearly\source\repos\BestAdder_Ever\BestAdder_Ever\obj\Debug\netcoreapp3.1\BestAdder_Ever.pdb
