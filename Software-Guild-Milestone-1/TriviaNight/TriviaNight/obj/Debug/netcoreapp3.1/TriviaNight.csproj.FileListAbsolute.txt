@@ -1,0 +1,10 @@
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\TriviaNight\TriviaNight\bin\Debug\netcoreapp3.1\TriviaNight.exe
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\TriviaNight\TriviaNight\bin\Debug\netcoreapp3.1\TriviaNight.deps.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\TriviaNight\TriviaNight\bin\Debug\netcoreapp3.1\TriviaNight.runtimeconfig.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\TriviaNight\TriviaNight\bin\Debug\netcoreapp3.1\TriviaNight.runtimeconfig.dev.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\TriviaNight\TriviaNight\bin\Debug\netcoreapp3.1\TriviaNight.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\TriviaNight\TriviaNight\bin\Debug\netcoreapp3.1\TriviaNight.pdb
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\TriviaNight\TriviaNight\obj\Debug\netcoreapp3.1\TriviaNight.AssemblyInfoInputs.cache
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\TriviaNight\TriviaNight\obj\Debug\netcoreapp3.1\TriviaNight.AssemblyInfo.cs
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\TriviaNight\TriviaNight\obj\Debug\netcoreapp3.1\TriviaNight.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\TriviaNight\TriviaNight\obj\Debug\netcoreapp3.1\TriviaNight.pdb
