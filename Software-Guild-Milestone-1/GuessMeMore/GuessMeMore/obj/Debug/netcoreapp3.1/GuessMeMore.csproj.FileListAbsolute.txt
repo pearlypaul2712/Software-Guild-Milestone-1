@@ -1,0 +1,11 @@
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeMore\GuessMeMore\bin\Debug\netcoreapp3.1\GuessMeMore.exe
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeMore\GuessMeMore\bin\Debug\netcoreapp3.1\GuessMeMore.deps.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeMore\GuessMeMore\bin\Debug\netcoreapp3.1\GuessMeMore.runtimeconfig.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeMore\GuessMeMore\bin\Debug\netcoreapp3.1\GuessMeMore.runtimeconfig.dev.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeMore\GuessMeMore\bin\Debug\netcoreapp3.1\GuessMeMore.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeMore\GuessMeMore\bin\Debug\netcoreapp3.1\GuessMeMore.pdb
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeMore\GuessMeMore\obj\Debug\netcoreapp3.1\GuessMeMore.csprojAssemblyReference.cache
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeMore\GuessMeMore\obj\Debug\netcoreapp3.1\GuessMeMore.AssemblyInfoInputs.cache
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeMore\GuessMeMore\obj\Debug\netcoreapp3.1\GuessMeMore.AssemblyInfo.cs
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeMore\GuessMeMore\obj\Debug\netcoreapp3.1\GuessMeMore.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeMore\GuessMeMore\obj\Debug\netcoreapp3.1\GuessMeMore.pdb
