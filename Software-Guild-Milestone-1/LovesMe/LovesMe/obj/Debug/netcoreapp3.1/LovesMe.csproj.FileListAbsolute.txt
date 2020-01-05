@@ -1,0 +1,10 @@
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LovesMe\LovesMe\bin\Debug\netcoreapp3.1\LovesMe.exe
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LovesMe\LovesMe\bin\Debug\netcoreapp3.1\LovesMe.deps.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LovesMe\LovesMe\bin\Debug\netcoreapp3.1\LovesMe.runtimeconfig.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LovesMe\LovesMe\bin\Debug\netcoreapp3.1\LovesMe.runtimeconfig.dev.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LovesMe\LovesMe\bin\Debug\netcoreapp3.1\LovesMe.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LovesMe\LovesMe\bin\Debug\netcoreapp3.1\LovesMe.pdb
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LovesMe\LovesMe\obj\Debug\netcoreapp3.1\LovesMe.AssemblyInfoInputs.cache
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LovesMe\LovesMe\obj\Debug\netcoreapp3.1\LovesMe.AssemblyInfo.cs
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LovesMe\LovesMe\obj\Debug\netcoreapp3.1\LovesMe.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LovesMe\LovesMe\obj\Debug\netcoreapp3.1\LovesMe.pdb
