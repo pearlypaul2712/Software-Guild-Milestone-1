@@ -1,0 +1,10 @@
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.exe
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.deps.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.runtimeconfig.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.runtimeconfig.dev.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeFinally\GuessMeFinally\bin\Debug\netcoreapp3.1\GuessMeFinally.pdb
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.AssemblyInfoInputs.cache
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.AssemblyInfo.cs
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\GuessMeFinally\GuessMeFinally\obj\Debug\netcoreapp3.1\GuessMeFinally.pdb
