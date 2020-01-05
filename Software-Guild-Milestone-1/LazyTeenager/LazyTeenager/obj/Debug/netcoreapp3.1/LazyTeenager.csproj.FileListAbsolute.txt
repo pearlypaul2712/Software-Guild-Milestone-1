@@ -1,0 +1,10 @@
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LazyTeenager\LazyTeenager\bin\Debug\netcoreapp3.1\LazyTeenager.exe
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LazyTeenager\LazyTeenager\bin\Debug\netcoreapp3.1\LazyTeenager.deps.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LazyTeenager\LazyTeenager\bin\Debug\netcoreapp3.1\LazyTeenager.runtimeconfig.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LazyTeenager\LazyTeenager\bin\Debug\netcoreapp3.1\LazyTeenager.runtimeconfig.dev.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LazyTeenager\LazyTeenager\bin\Debug\netcoreapp3.1\LazyTeenager.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LazyTeenager\LazyTeenager\bin\Debug\netcoreapp3.1\LazyTeenager.pdb
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LazyTeenager\LazyTeenager\obj\Debug\netcoreapp3.1\LazyTeenager.AssemblyInfoInputs.cache
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LazyTeenager\LazyTeenager\obj\Debug\netcoreapp3.1\LazyTeenager.AssemblyInfo.cs
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LazyTeenager\LazyTeenager\obj\Debug\netcoreapp3.1\LazyTeenager.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\LazyTeenager\LazyTeenager\obj\Debug\netcoreapp3.1\LazyTeenager.pdb
