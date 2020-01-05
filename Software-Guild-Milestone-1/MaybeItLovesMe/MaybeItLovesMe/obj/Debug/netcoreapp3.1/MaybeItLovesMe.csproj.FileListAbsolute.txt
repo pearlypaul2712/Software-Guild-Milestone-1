@@ -1,0 +1,10 @@
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\MaybeItLovesMe\MaybeItLovesMe\bin\Debug\netcoreapp3.1\MaybeItLovesMe.exe
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\MaybeItLovesMe\MaybeItLovesMe\bin\Debug\netcoreapp3.1\MaybeItLovesMe.deps.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\MaybeItLovesMe\MaybeItLovesMe\bin\Debug\netcoreapp3.1\MaybeItLovesMe.runtimeconfig.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\MaybeItLovesMe\MaybeItLovesMe\bin\Debug\netcoreapp3.1\MaybeItLovesMe.runtimeconfig.dev.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\MaybeItLovesMe\MaybeItLovesMe\bin\Debug\netcoreapp3.1\MaybeItLovesMe.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\MaybeItLovesMe\MaybeItLovesMe\bin\Debug\netcoreapp3.1\MaybeItLovesMe.pdb
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\MaybeItLovesMe\MaybeItLovesMe\obj\Debug\netcoreapp3.1\MaybeItLovesMe.AssemblyInfoInputs.cache
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\MaybeItLovesMe\MaybeItLovesMe\obj\Debug\netcoreapp3.1\MaybeItLovesMe.AssemblyInfo.cs
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\MaybeItLovesMe\MaybeItLovesMe\obj\Debug\netcoreapp3.1\MaybeItLovesMe.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\MaybeItLovesMe\MaybeItLovesMe\obj\Debug\netcoreapp3.1\MaybeItLovesMe.pdb
