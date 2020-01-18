@@ -1,0 +1,10 @@
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.exe
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.deps.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.runtimeconfig.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.runtimeconfig.dev.json
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.pdb
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.AssemblyInfoInputs.cache
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.AssemblyInfo.cs
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.dll
+C:\Users\Pearly\source\repos\Software-Guild-Milestone-1\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.pdb
